@@ -26,6 +26,17 @@ This dataset illustrates health status of 26 of the nation’s largest and most 
   - R² Score
    - RMSE
    - Cross-validation (5-fold)
+## 🧠 Models and Accuracy
+| Regressor                   | R² Score | RMSE |
+| --------------------------- | -------- | ---- |
+| Linear Regression           | 0.78     | 4.23 |
+| Random Forest Regressor     | 0.91     | 2.65 |
+| Gradient Boosting Regressor | 0.89     | 2.95 |
+
+## The best accuracy is:
+✅ Highest R² score
+
+✅ Lowest RMSE
 
 ### ⚙️ Tools Used
 
