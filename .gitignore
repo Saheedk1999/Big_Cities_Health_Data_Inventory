@@ -1,0 +1,39 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# Saved ML models
+/models/
+*.pkl
+*.joblib
+
+# Dataset files (large/raw)
+data/raw/
+data/processed/
+
+# Output images, plots, reports
+/outputs/
+*.csv
+*.xlsx
+*.pdf
+*.png
+*.jpg
+
+# Editor/IDE folders
+.vscode/
+.idea/
